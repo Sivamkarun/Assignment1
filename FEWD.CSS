@@ -1,0 +1,63 @@
+body{
+	margin: 0;
+	font-family: helvetica;
+}
+
+header{
+	background-image: url(file:///Users/sivamkarun/Desktop/GitHub/Assignment1/mountains.jpg);
+	background-size: cover;
+	height: 450px;
+}
+
+
+.big-header{
+	color: white;
+	text-align: center;
+	margin: auto;
+	padding: 40px;
+}
+
+
+h1{
+	margin: auto;
+	font-family: helvetica;
+	color: white;
+	font-size: 80px;
+}
+
+
+h4{
+	margin: auto;
+	font-family: helvetica;
+	text-transform: uppercase;	
+	color: white;
+	font-size: 30px;
+	padding-top: 50px;	
+}
+
+
+.buttons{
+	text-align: center;
+	font-weight: bold;
+	color: white;
+	padding-top: 20px;
+}
+
+
+.requestbt{
+	color:black;
+	background-color: lightgrey;
+	font-weight: bold;
+	padding: 20px 20px;
+	border-radius: 2px;
+}
+
+
+.applybt{
+	color:white;
+	background-color: red;
+	font-weight: bold;
+	padding: 20px 20px;
+	border-radius: 2px;
+}
+
